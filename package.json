@@ -1,16 +1,7 @@
 {
     "name": "aa-openapi-typescript-codegen",
-    "version": "1.23.0",
+    "version": "1.23.1",
     "description": "Library that generates Typescript clients based on the OpenAPI specification.",
-    "author": "Ferdi Koomen",
-    "homepage": "https://github.com/ferdikoomen/openapi-typescript-codegen",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/ferdikoomen/openapi-typescript-codegen.git"
-    },
-    "bugs": {
-        "url": "https://github.com/ferdikoomen/openapi-typescript-codegen/issues"
-    },
     "license": "MIT",
     "keywords": [
         "openapi",
